@@ -1,8 +1,10 @@
+![Express Logo](https://st.hostman.com/cloud-static/apps-logo/express.svg)
+
 # Express on Bun
 
 An example [Express](https://expressjs.com/) on the [Bun](https://bun.sh/) runtime that can be deployed to **Hostman Cloud Apps** with no configuration.
 
-:tada: Demo
+:tada: [Demo](https://hostman-cloud-app-example-express-bun-7303.hostman.dev/)
 
 :rocket: [Create your App](https://hostman.cloud/my/apps/create)
 
